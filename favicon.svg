@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<style>
+.bg{fill:#111111}.fg{fill:#ffffff}
+@media (prefers-color-scheme: dark){.bg{fill:#e8e8e6}.fg{fill:#0e0f11}}
+</style>
+<rect class="bg" width="64" height="64" rx="6"/>
+<text class="fg" x="32" y="45" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="0">AK</text>
+</svg>
